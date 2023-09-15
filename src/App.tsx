@@ -13,7 +13,7 @@ const App: FunctionComponent = () => {
  return (
   <div>
     <h1>Pokédex</h1>
-    <p>Il y a {pokemons.length} dans notre application !</p>
+    <p>Il y a {pokemons.length} dans notre Pokédex !</p>
   </div>
  )
 }
